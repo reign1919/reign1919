@@ -83,6 +83,5 @@
 
 ---
 
-<h4 Profile Views: 11,176 and counting </h4>
 
 
